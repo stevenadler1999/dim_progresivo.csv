@@ -1,0 +1,9 @@
+﻿ID_Progresivo,Nombre_Progresivo,Alcance_Progresivo,Monto_Inicial_Jackpot,Porcentaje_Incremento_Apuesta,Niveles_Progresivo,Monto_Minimo_Apuesta_Elegible
+PROG-SAL-001,Jackpot de la Casa Principal,Red Local,50000.0,0.005,4 Niveles,0.5
+PROG-EXT-001,Mega Moolah,Red Externa,1000000.0,0.01,Jackpot Único,1.0
+PROG-EXT-002,Age of the Gods,Red Externa,500000.0,0.008,4 Niveles,0.75
+PROG-EXT-003,WowPot,Red Externa,2000000.0,0.012,4 Niveles,1.5
+PROG-EXT-004,Bell Link Jackpot,Red Externa,100000.0,0.007,4 Niveles,0.25
+PROG-EXT-005,Diamond Link,Red Externa,75000.0,0.006,4 Niveles,0.5
+PROG-MAQ-001,Jackpot Individual #1,Máquina Individual,500.0,0.002,Jackpot Único,0.1
+PROG-MAQ-002,Jackpot Individual #2,Máquina Individual,750.0,0.003,Jackpot Único,0.2
